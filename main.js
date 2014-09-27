@@ -1,7 +1,3 @@
-// Based on tutorial here:
-// http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-1/
-// http://blog.lessmilk.com/how-to-make-flappy-bird-in-html5-2/
-
 // Initialize Phaser, and create a game canvas
 var game = new Phaser.Game(400, 490, Phaser.AUTO, 'gameDiv');
 

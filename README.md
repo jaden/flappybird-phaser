@@ -10,3 +10,5 @@ Files need to be served with a web server.  File URLs won't work.
 
 ## To Play
 Browse to index.html and use the spacebar or click to flap your wings.
+
+or [play it online](http://dan.hersam.com/software/flappybird/).
